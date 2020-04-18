@@ -5,4 +5,3 @@ function breakOut(array, changeValue, stopValue) {
     }
   } array[i] = changeValue
 }
-
